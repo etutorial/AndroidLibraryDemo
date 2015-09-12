@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidLibrary</string>
+    <string name="shared_string">Shared String</string>
+</resources>
